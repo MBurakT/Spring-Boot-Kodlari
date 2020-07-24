@@ -1,1 +1,1 @@
-# Spring-Boot-Kodlari küçük-basit örnekler
+# Spring Boot kodlari küçük-basit örnekler
